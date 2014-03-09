@@ -1,11 +1,11 @@
 Summary:	Default icon theme for MATE enviroment
 Name:		mate-icon-theme
-Version:	1.6.3
+Version:	1.8.0
 Release:	1
 License:	GPL
 Group:		Themes
-Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	0cb55a9676723225227cd679be19461e
+Source0:	http://pub.mate-desktop.org/releases/1.8/%{name}-%{version}.tar.xz
+# Source0-md5:	04d3bdcbf20195436ba25b6c70b144aa
 BuildRequires:	gtk+
 BuildRequires:	icon-naming-utils
 BuildRequires:	intltool
